@@ -23,7 +23,6 @@ def bythree(x, y, val):
                 return False
     return True
 
-
 def DFS(index):
     if index == len(zeros):
         for row in sudoku:

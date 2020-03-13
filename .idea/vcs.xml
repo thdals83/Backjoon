@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Machine-Learning_p1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../keras_basic" vcs="Git" />
   </component>
 </project>
