@@ -1,4 +1,4 @@
-tmp=[0]*100
+tmp=[0]*1000000
 
 def dp(x):
     if(x==0): return 0;
