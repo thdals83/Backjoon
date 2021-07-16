@@ -9,6 +9,7 @@ def gcd(x,y):
 def div(x):
     dlist=[x]
     for i in range(2, int(x**(1/2) +1)):
+        print(i)
         if x%i ==0:
             dlist.append(i)
             if x//i !=i:

@@ -1,10 +1,13 @@
 tmp=[0]*1000000
 
 def dp(x):
-    if(x==0): return 0;
-    if(x==1): return 1;
+    if(x==0): return 0
+    if(x==1): return 1
     if(tmp[x]!=0): return tmp[x]
     y=dp(x - 1) + dp(x - 2)
+    print(dp(x - 1))
+    print(dp(x - 2))
+    print("체크")
     tmp[x] = y
     return tmp[x]
 

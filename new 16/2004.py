@@ -1,13 +1,13 @@
-def num(k, n):
-    count = 0
-    while(k != 0):
-        k = k // n
-        count += k
-    return count
+def main():
+    arr=list(input().split())
+    n=int(input())
+    arr2=[]
+    for _ in range(n):
+        arr2.append(list(input().split()))
 
-n, m = list(map(int, input().split()))
+    for i in arr2:
+        print(i)
 
-five = num(n, 5) - num(m, 5) - num(n-m, 5)
-two = num(n, 2) - num(m, 2) - num(n-m, 2)
 
-print(min(five, two))
+if __name__ == "__main__":
+    main()

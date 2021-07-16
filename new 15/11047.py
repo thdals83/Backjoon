@@ -14,4 +14,4 @@ for i in range(n-1,-1,-1):
     x += k//arr[i]
     k%=arr[i]
 
-print(x)
+print(x)    
