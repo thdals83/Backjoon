@@ -3,7 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../CodingTest_EX" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Machine-Learning_p1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Korean-Signlanguage-use-mediapipe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../keras_basic" vcs="Git" />
   </component>

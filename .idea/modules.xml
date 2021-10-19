@@ -4,8 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Backjoon2.iml" filepath="$PROJECT_DIR$/.idea/Backjoon2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CodingTest_EX/.idea/CodingTest_EX.iml" filepath="$PROJECT_DIR$/../CodingTest_EX/.idea/CodingTest_EX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../HackerRank/.idea/HackerRank.iml" filepath="$PROJECT_DIR$/../HackerRank/.idea/HackerRank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Machine-Learning_p1/.idea/Machine-Learning_p1.iml" filepath="$PROJECT_DIR$/../Machine-Learning_p1/.idea/Machine-Learning_p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Korean-Signlanguage-use-mediapipe/.idea/Korean-Signlanguage-use-mediapipe.iml" filepath="$PROJECT_DIR$/../Korean-Signlanguage-use-mediapipe/.idea/Korean-Signlanguage-use-mediapipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model/.idea/Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model.iml" filepath="$PROJECT_DIR$/../Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model/.idea/Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/../challenge/.idea/challenge.iml" filepath="$PROJECT_DIR$/../challenge/.idea/challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/../keras_basic/.idea/keras.iml" filepath="$PROJECT_DIR$/../keras_basic/.idea/keras.iml" />

@@ -4,11 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="HackerRank" />
-    <orderEntry type="module" module-name="Machine-Learning_p1" />
     <orderEntry type="module" module-name="keras" />
     <orderEntry type="module" module-name="challenge" />
     <orderEntry type="module" module-name="Viet-Nam-Sign-Language-Recognition-using-Hand-MediaPipe-framework-and-LSTM-model" />
     <orderEntry type="module" module-name="CodingTest_EX" />
+    <orderEntry type="module" module-name="Korean-Signlanguage-use-mediapipe" />
   </component>
 </module>
